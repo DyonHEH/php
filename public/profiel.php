@@ -13,7 +13,7 @@ require "Header.php";
             <h2 id="h2Home">uw gegevens</h2>
 
             gebruikersnaam:     Dyon van Kersbergen <br>
-            Email-adres:        dyon.kersbergen@student.graafschapcollege.nl<br>
+            Email-adres:        dyon260604@gmail.com<br>
 
             <form  action="Home.php">
                 <input type="submit" value="aanpassen" />
